@@ -1,0 +1,10 @@
+selenium
+bs4
+numpy
+pandas
+tqdm
+webdriver-manager
+plotly
+matplotlib
+sklearn
+catboost
